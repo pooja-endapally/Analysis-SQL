@@ -161,15 +161,5 @@ Real-world business-style data problems
 ✔ Progression from basic to advanced concepts
 ✔ Job-ready data analysis skills
 
-This repository is designed to reflect how SQL is used in real data analyst roles, not just academic examples.
 
-🚀 Future Enhancements
-
-Add query explanations as comments
-
-Convert analyses into case-study format
-
-Add performance optimization examples
-
-Include ER diagrams or schema explanations
 
