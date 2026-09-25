@@ -1,0 +1,25 @@
+Order_ID,Date,Customer_Name,Region,Product,Category,Quantity,Price,Total_Sales
+1001,2024-01-05,Aisha,West,Laptop,Electronics,2,850,1700
+1002,2024-01-07,Michael,East,Office Chair,Furniture,4,220,880
+1003,2024-01-10,Sophia,South,Monitor,Electronics,3,300,900
+1004,2024-01-12,Daniel,North,Desk,Furniture,2,450,900
+1005,2024-01-15,Emma,West,Keyboard,Electronics,8,75,600
+1006,2024-01-18,Noah,East,Mouse,Electronics,12,35,420
+1007,2024-01-20,Olivia,South,Laptop,Electronics,1,900,900
+1008,2024-01-23,Liam,North,Desk,Furniture,3,425,1275
+1009,2024-02-02,Ava,West,Monitor,Electronics,5,290,1450
+1010,2024-02-05,Ethan,East,Office Chair,Furniture,6,210,1260
+1011,2024-02-08,Mia,South,Keyboard,Electronics,10,70,700
+1012,2024-02-11,James,North,Laptop,Electronics,2,875,1750
+1013,2024-02-15,Charlotte,West,Mouse,Electronics,15,32,480
+1014,2024-02-18,Benjamin,East,Desk,Furniture,4,440,1760
+1015,2024-02-21,Amelia,South,Monitor,Electronics,4,310,1240
+1016,2024-02-25,Lucas,North,Office Chair,Furniture,5,225,1125
+1017,2024-03-03,Harper,West,Laptop,Electronics,3,860,2580
+1018,2024-03-06,Henry,East,Keyboard,Electronics,7,78,546
+1019,2024-03-10,Evelyn,South,Mouse,Electronics,20,34,680
+1020,2024-03-14,Alexander,North,Monitor,Electronics,6,295,1770
+1021,2024-03-18,Abigail,West,Desk,Furniture,3,460,1380
+1022,2024-03-21,William,East,Laptop,Electronics,2,890,1780
+1023,2024-03-24,Ella,South,Office Chair,Furniture,7,215,1505
+1024,2024-03-28,Theodore,North,Keyboard,Electronics,9,72,648
