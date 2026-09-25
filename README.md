@@ -1,8 +1,6 @@
-🧮 SQL Data Analysis Portfolio
+This repository showcases my SQL skills progression — from Beginner to Intermediate to Advanced — using real-world datasets and business-focused analysis tasks.
 
-This repository showcases my SQL skills progression — from Beginner to Intermediate to Advanced — using real-world datasets and analysis tasks.
-
-The projects reflect hands-on practice gained through the Google Data Analytics Professional Certificate and independent learning, focusing on writing clean, efficient, and business-focused SQL queries.
+The projects reflect hands-on practice gained through the Google Data Analytics Professional Certificate and independent learning, with a focus on writing clean, readable, and business-focused SQL queries.
 
 🎯 Skills Overview
 
@@ -14,11 +12,11 @@ Performing exploratory data analysis (EDA)
 
 Using SQL to answer business questions
 
-Working with real datasets (sales, movies, layoffs, etc.)
+Working with real-world datasets such as sales, movies, layoffs, and more
 
 🟢 Beginner SQL Skills
 
-Focus: Query fundamentals & data exploration
+Focus: Query fundamentals and data exploration
 
 Concepts Covered
 
@@ -40,7 +38,9 @@ SUM()
 
 AVG()
 
-MIN(), MAX()
+MIN()
+
+MAX()
 
 Example Use Cases
 
@@ -50,20 +50,27 @@ Calculating total sales
 
 Identifying top or bottom values
 
-Basic trend exploration
+Performing basic trend exploration
 
-📂 Example files:
-basic_queries.sql, sales_summary.sql
+📂 Example Files
+
+basic_queries.sql
+
+sales_summary.sql
 
 🟡 Intermediate SQL Skills
 
-Focus: Multi-table analysis & deeper insights
+Focus: Multi-table analysis and deeper insights
 
 Concepts Covered
 
-INNER JOIN, LEFT JOIN
+INNER JOIN
 
-GROUP BY, HAVING
+LEFT JOIN
+
+GROUP BY
+
+HAVING
 
 Subqueries
 
@@ -89,18 +96,21 @@ Revenue trends by region
 
 Filtering grouped results
 
-📂 Example files:
-joins_analysis.sql, customer_insights.sql
+📂 Example Files
+
+joins_analysis.sql
+
+customer_insights.sql
 
 🔴 Advanced SQL Skills
 
-Focus: Analytical queries & performance-ready logic
+Focus: Analytical queries and advanced data analysis
 
 Concepts Covered
 
 Common Table Expressions (CTEs)
 
-Window Functions
+Window functions
 
 Deduplication techniques
 
@@ -112,7 +122,9 @@ WITH (CTEs)
 
 ROW_NUMBER()
 
-RANK(), DENSE_RANK()
+RANK()
+
+DENSE_RANK()
 
 PARTITION BY
 
@@ -128,38 +140,76 @@ Comparing performance within categories
 
 Time-based analysis
 
-📂 Example files:
-window_functions.sql, advanced_analysis.sql, data_cleaning.sql
+Running totals and comparative metrics
+
+📂 Example Files
+
+window_functions.sql
+
+advanced_analysis.sql
+
+data_cleaning.sql
 
 🧹 Data Cleaning in SQL
 
-This repository also demonstrates data cleaning workflows using SQL:
+This repository also demonstrates practical SQL data-cleaning workflows, including:
 
 Identifying duplicate rows
 
-Removing duplicates with ROW_NUMBER()
+Removing duplicates using ROW_NUMBER()
 
 Handling null values
 
-Standardizing text and date formats
+Standardizing text values
 
-These skills are essential for preparing raw datasets before analysis.
+Standardizing date formats
+
+Preparing raw datasets for analysis
 
 🛠 Tools & Technologies
 
-SQL (MySQL, SQL Server)
+SQL: MySQL, SQL Server
 
-Kaggle datasets
+Datasets: Kaggle and other real-world datasets
 
-Real-world business-style data problems
+Analysis: Business questions, exploratory analysis, and data cleaning
+
+Version Control: GitHub
 
 📈 What This Repository Demonstrates
 
 ✔ Strong SQL fundamentals
-✔ Ability to analyze real datasets
-✔ Clean, readable query writing
-✔ Progression from basic to advanced concepts
-✔ Job-ready data analysis skills
+✔ Ability to analyze real-world datasets
+✔ Clean and readable query writing
+✔ Progression from basic to advanced SQL concepts
+✔ Business-focused analytical thinking
+✔ Practical data-cleaning skills
+✔ Portfolio projects built through hands-on practice
 
+📂 Featured Project
 
+Sales Analysis
+
+A business-focused SQL project analyzing sales performance by:
+
+Region
+
+Product
+
+Category
+
+Customer
+
+Order value
+
+Monthly sales
+
+Main file: sales_analysis.sql
+Dataset: sales_data.csv
+
+👩‍💻 About
+
+I am building my data analytics skills through hands-on projects, structured learning, and practical business analysis.
+
+This repository documents my SQL learning journey and demonstrates how I apply SQL to real-world data problems.
 
